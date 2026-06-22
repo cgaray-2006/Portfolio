@@ -1,0 +1,13 @@
+
+### 1. Vetted Literature Matrix: Davao Regional Economy
+
+| Statement | Source | Status | Human Correction |
+| :--- | :--- | :--- | :--- |
+| Job search durations and structural unemployment in Davao City are dictated by frictional market-matching parameters rather than pure wage elasticities. | Berdos, K. R., & Deluna, R. S. Jr. (2016). *Factors Affecting Length of Job Search and Job Switching in Davao City.* MPRA Paper No. 68802. | **REAL** | Fully accurate as it proves looking for work in Davao City takes 5 months on average due to skills mismatch, not wage rates. |
+| The Davao Region economy reached a valuation of ₱1.14 trillion, registering a robust 5.1% growth rate heavily anchored by a 6.9% expansion in the services sector. | Philippine Statistics Authority (PSA) XI. (2026). *Report on the 2025 Economic Performance of the Davao Region.* | **REAL** |  Exact official numbers dropped at the Apo View Hotel press conference on April 23, 2026. |
+| Localized coastal fishing economies throughout the Davao Gulf require targeted institutional safety nets due to compounding resource depletion and low adaptive capacity ratios. | Jimenez, J. E. M., et al. (2025). *Strengthening Resilience among Small-Scale Fishers in Coastal Communities in Davao Region.* Davao Research Journal, 17(2), 6-9. | **QUESTIONABLE** | Verified but did not directly credit Dr. Erna Macusi as the principal investigator. |
+| Accelerated international importation within the Davao Region corresponds to lower regional unemployment but yields inelastic output dynamics in local livestock sectors due to trade-dependency feedback loops. | Al-Zubaidi, et al. (2024). *Analysis of the Impact of Importation on the Economic Development of the Davao Region.* Journal of King Abdulaziz University (Social Sciences). | **QUESTIONABLE** | The local data is applicable but the paper is hosted under an international open-access repository portal partner, which is questionable due to the prompt given. (*Zhongguo Kuangye Daxue Xuebao*). |
+
+### 2. Reflection on AI Limitation
+: Davao Regional Economy
+"The AI had partially successfully synthesized different papers as asked, but in doing so, had been very close to or had worked around the constraints given in the prompt, being seen in the 4th statement it has given. It should be noted that human Correction was neccessary due to it still leaving out some crucial details as well as seen in the third statement failing to directly credit a key figure involved in the paper.
