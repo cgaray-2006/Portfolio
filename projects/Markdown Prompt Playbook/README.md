@@ -20,3 +20,5 @@
 ### 3. Visual Branding Asset
 - **Engine Used:** Google Gemini
 - **Visual Prompt:** "a 2d vector logo of two types of bananas bunches inside a basket, with the rim of the basket being lined with flat grass"
+
+![Logo](Example for Proj1.png)
