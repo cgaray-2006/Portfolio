@@ -21,4 +21,4 @@
 - **Engine Used:** Google Gemini
 - **Visual Prompt:** "a 2d vector logo of two types of bananas bunches inside a basket, with the rim of the basket being lined with flat grass"
 
-![Logo](Example for Proj1.png)
+![Alt](Example%20for%20Proj1.png)
