@@ -9,5 +9,6 @@
 | Accelerated international importation within the Davao Region corresponds to lower regional unemployment but yields inelastic output dynamics in local livestock sectors due to trade-dependency feedback loops. | Al-Zubaidi, et al. (2024). *Analysis of the Impact of Importation on the Economic Development of the Davao Region.* Journal of King Abdulaziz University (Social Sciences). | **QUESTIONABLE** | The local data is applicable but the paper is hosted under an international open-access repository portal partner, which is questionable due to the prompt given. (*Zhongguo Kuangye Daxue Xuebao*). |
 
 ### 2. Reflection on AI Limitation
-: Davao Regional Economy
+
+
 "The AI had partially successfully synthesized different papers as asked, but in doing so, had been very close to or had worked around the constraints given in the prompt, being seen in the 4th statement it has given. It should be noted that human Correction was neccessary due to it still leaving out some crucial details as well as seen in the third statement failing to directly credit a key figure involved in the paper.
